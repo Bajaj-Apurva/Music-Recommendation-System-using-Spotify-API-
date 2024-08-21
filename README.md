@@ -95,3 +95,7 @@ Feel free to fork this repository, open issues, or submit pull requests if you h
 
 ## 📜 License
 This project is licensed under the MIT License.
+
+##  Acknowledgements
+Spotify Web API
+Spotipy
